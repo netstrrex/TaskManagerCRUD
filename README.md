@@ -8,6 +8,7 @@
 * Gunicorn + Uvicorn workers
 * Docker + docker-compose
 * Ruff + mypy для проверки статики и качества кода
+* Uv в качестве менеджера пакетов
 * pre-commit для хуков
 
 ---
